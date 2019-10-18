@@ -62,9 +62,6 @@ namespace LoggingKata
             Console.WriteLine($"{TB1.Name}, {TB2.Name}");
             Console.ReadLine();
 
-
-            // TODO:  Find the two Taco Bells in Alabama that are the furthest from one another.
-            // HINT:  You'll need two nested forloops for this part
         }
     }
 }
